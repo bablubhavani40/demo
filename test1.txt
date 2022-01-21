@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6CA9-42BB
+
+ Directory of C:\Users\002AOT744\Desktop\My project
+
+21-01-2022  12:01    <DIR>          .
+21-01-2022  12:01    <DIR>          ..
+21-01-2022  12:01                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  175,037,317,120 bytes free
